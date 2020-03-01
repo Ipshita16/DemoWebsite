@@ -1,0 +1,18 @@
+<config>    
+<modules>
+    <Ipshita_HelloWorld>
+        <version>0.1.0</version>
+    </Ipshita_HelloWorld>
+</modules>
+<frontend>
+    <routers>
+        <helloworld>
+            <use>standard</use>
+            <args>
+                <module>Magentotutorial_Weblog</module>
+                <frontName>weblog</frontName>
+            </args>
+        </helloworld>
+    </routers>  
+</frontend>
+</config>

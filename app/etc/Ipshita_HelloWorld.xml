@@ -1,0 +1,7 @@
+<config>
+<modules>
+    <Ipshita_HelloWorld>
+        <active>true</active>
+        <codePool>local</codePool>
+    </Ipshita_HelloWorld> 
+</modules>
